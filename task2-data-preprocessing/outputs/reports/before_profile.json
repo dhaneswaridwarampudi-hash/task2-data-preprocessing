@@ -1,0 +1,30 @@
+{
+  "label": "raw",
+  "n_rows": 48842,
+  "n_cols": 16,
+  "duplicate_rows": 29,
+  "missing_cells": 6465,
+  "dtypes": {
+    "age": "int64",
+    "workclass": "object",
+    "fnlwgt": "int64",
+    "education": "object",
+    "education_num": "int64",
+    "marital_status": "object",
+    "occupation": "object",
+    "relationship": "object",
+    "race": "object",
+    "sex": "object",
+    "capital_gain": "int64",
+    "capital_loss": "int64",
+    "hours_per_week": "int64",
+    "native_country": "object",
+    "income": "object",
+    "split": "object"
+  },
+  "missing_by_column": {
+    "workclass": 2799,
+    "occupation": 2809,
+    "native_country": 857
+  }
+}
